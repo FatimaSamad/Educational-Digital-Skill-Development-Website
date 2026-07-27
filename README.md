@@ -62,7 +62,7 @@ It should:
 - Avoid unrelated responses.
 - Encourage users to explore suitable digital courses.
 - Provide contact information when further support is required.
-  
+-
 Project Overview 
 This project is a fully dynamic Educational & Digital Skills Platform developed to provide users with an interactive and engaging learning experience. The website enables users to browse available courses, register for training programs, communicate through a built-in AI chat-bot, and access essential digital learning resources.
 The platform consists of multiple well-structured and responsive pages, including:
